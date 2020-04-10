@@ -45,8 +45,19 @@
                         <version>8.0.18</version>
                         <scope>compile</scope>
                     </dependency>
+                    <dependency>
+                        <groupId>org.projectlombok</groupId>
+                        <artifactId>lombok</artifactId>
+                        <version>1.18.12</version>
+                    </dependency>
                 </dependencies>
             </plugin>
         </plugins>
     </build>
+    <repositories>
+        <repository>
+            <id>JBoss repository</id>
+            <url>https://repository.jboss.org/nexus/content/repositories/releases/</url>
+        </repository>
+    </repositories>
 </project>
