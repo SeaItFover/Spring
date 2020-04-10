@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--把对象的创建交给Spring来管理
+       创建对象的三种方式
+    -->
+    <bean id="accountService1" class="com.codepig.service.AccountServiceImpl" init-method="init"
+          destroy-method="destory"></bean>
+
+    <bean id="factoryInstance" class="com.codepig.factory.FactoryInstance"></bean>
+    <bean id="accountService2" factory-bean="factoryInstance" factory-method="getAccountService"></bean>
+
+    <bean id="accountService3" class="com.codepig.factory.StaticFactory" factory-method="getAccountService"></bean>
+
+    <bean id="accountMapper" class="com.codepig.mapper.AccountMapperImpl"></bean>
+</beans>
