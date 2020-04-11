@@ -16,4 +16,14 @@
     <bean id="accountService3" class="com.codepig.factory.StaticFactory" factory-method="getAccountService"></bean>
 
     <bean id="accountMapper" class="com.codepig.mapper.AccountMapperImpl"></bean>
+
+    <bean id="userService" class="com.codepig.service.UserService">
+        <property name="strings">
+            <list>
+                <value>AAA</value>
+                <value>BBB</value>
+                <value>CCC</value>
+            </list>
+        </property>
+    </bean>
 </beans>
