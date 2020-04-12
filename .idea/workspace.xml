@@ -20,50 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6043e097-e566-4464-9b4e-50a132799b45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/customizeBeanFactory/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/ui/TEst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/factory/BeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/factory/BeanFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/factory/FactoryInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/factory/FactoryInstance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/factory/StaticFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/factory/StaticFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/jdbc/JdbcDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/jdbc/JdbcDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/jdbc/mybatis.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/jdbc/mybatis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/mapper/AccountMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/mapper/AccountMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/mapper/AccountMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/mapper/AccountMapperImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/mapper/settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/mapper/settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/service/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/service/AccountService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/service/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/service/AccountServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/ui/AnnocationClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/ui/AnnocationClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/ui/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/ui/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/ui/SpringClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/ui/SpringClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/annocationBean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/resources/annocationBean.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bean.properties" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/resources/bean.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/resources/bean.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/V1__Create_account_table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/resources/db/migration/V1__Create_account_table.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/V2__Insert_account_table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/resources/db/migration/V2__Insert_account_table.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/annocationBean.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bean.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bean.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/factory/BeanFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/factory/FactoryInstance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/factory/StaticFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/jdbc/JdbcDemo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/jdbc/mybatis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/mapper/AccountMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/mapper/AccountMapperImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/service/AccountService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/service/AccountServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/ui/AnnocationClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/ui/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/ui/SpringClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/db/migration/V1__Create_account_table.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/db/migration/V2__Insert_account_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customizeBeanFactory/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +176,7 @@
       <workItem from="1586578943961" duration="1379000" />
       <workItem from="1586580344193" duration="5192000" />
       <workItem from="1586607460007" duration="2424000" />
-      <workItem from="1586651879598" duration="1712000" />
+      <workItem from="1586651879598" duration="3136000" />
     </task>
     <servers />
   </component>
@@ -305,10 +263,10 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="179" y="0" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1586579831027" />
-    <state width="642" height="515" key="SwitcherDM" timestamp="1586586122523">
+    <state width="642" height="515" key="SwitcherDM" timestamp="1586655484014">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="642" height="515" key="SwitcherDM/0.0.1549.831@0.0.1549.831" timestamp="1586586122523" />
+    <state width="642" height="515" key="SwitcherDM/0.0.1549.831@0.0.1549.831" timestamp="1586655484014" />
     <state x="644" y="260" key="cloudConfig.SelfSettingsDialog" timestamp="1586504274823">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
