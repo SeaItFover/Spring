@@ -7,7 +7,10 @@
     <groupId>com.codepig.spy</groupId>
     <artifactId>SpringSourceLearn</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <modules>
+        <module>customizeBeanFactory</module>
+    </modules>
+    <packaging>pom</packaging>
 
     <dependencies>
         <dependency>

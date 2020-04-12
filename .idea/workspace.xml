@@ -20,17 +20,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6043e097-e566-4464-9b4e-50a132799b45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepig/mapper/settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepig/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepig/ui/AnnocationClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/annocationBean.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customizeBeanFactory/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/ui/TEst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/service/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codepig/service/AccountServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bean.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bean.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/service/AccountServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/codepig/service/AccountServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/factory/BeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/factory/BeanFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/factory/FactoryInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/factory/FactoryInstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/factory/StaticFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/factory/StaticFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/jdbc/JdbcDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/jdbc/JdbcDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/jdbc/mybatis.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/jdbc/mybatis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/mapper/AccountMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/mapper/AccountMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/mapper/AccountMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/mapper/AccountMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/mapper/settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/mapper/settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/service/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/service/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/service/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/service/AccountServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/ui/AnnocationClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/ui/AnnocationClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/ui/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/ui/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepig/ui/SpringClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/ui/SpringClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/annocationBean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/resources/annocationBean.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/bean.properties" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/resources/bean.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/resources/bean.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/V1__Create_account_table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/resources/db/migration/V1__Create_account_table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/V2__Insert_account_table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/resources/db/migration/V2__Insert_account_table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/annocationBean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bean.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/factory/BeanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/factory/FactoryInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/factory/StaticFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/jdbc/JdbcDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/jdbc/mybatis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/mapper/AccountMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/mapper/AccountMapperImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/service/AccountService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/service/AccountServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/ui/AnnocationClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/ui/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/codepig/ui/SpringClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/db/migration/V1__Create_account_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/db/migration/V2__Insert_account_table.sql" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,18 +99,20 @@
     </option>
   </component>
   <component name="ProjectId" id="1aL7rfM94otjFnE07EPmil2fWaX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="database.console.LAST_STATE" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/codepig/mapper" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GitWorkspace/InspurProject" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -86,12 +121,15 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVA\Idea\SpringSourceLearn\customizeBeanFactory\src\main\resources" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\JAVA\Idea\SpringSourceLearn\src\main\java\com\codepig\mapper" />
       <recent name="D:\JAVA\Idea\SpringSourceLearn\src\main\java\com\codepig\ui" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnnocationClient">
+  <component name="RunManager" selected="Application.TEst">
     <configuration name="AnnocationClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codepig.ui.AnnocationClient" />
       <module name="SpringSourceLearn" />
@@ -138,11 +176,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TEst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codepig.ui.TEst" />
+      <module name="SpringSourceLearn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TEst" />
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.AnnocationClient" />
         <item itemvalue="Application.SpringClient" />
-        <item itemvalue="Application.Client" />
         <item itemvalue="Application.JdbcDemo1" />
       </list>
     </recent_temporary>
@@ -170,7 +216,9 @@
       <workItem from="1586572085648" duration="3863000" />
       <workItem from="1586576897418" duration="1079000" />
       <workItem from="1586578943961" duration="1379000" />
-      <workItem from="1586580344193" duration="445000" />
+      <workItem from="1586580344193" duration="5192000" />
+      <workItem from="1586607460007" duration="2424000" />
+      <workItem from="1586651879598" duration="1712000" />
     </task>
     <servers />
   </component>
@@ -189,6 +237,9 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="401" y="94" key="#Inspections" timestamp="1586503434187">
       <screen x="0" y="0" width="1549" height="831" />
@@ -198,6 +249,10 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="633" y="251" key="#Notifications/0.0.1549.831@0.0.1549.831" timestamp="1586579111481" />
+    <state x="127" y="0" key="#Project_Structure" timestamp="1586654519688">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="127" y="0" key="#Project_Structure/0.0.1549.831@0.0.1549.831" timestamp="1586654519688" />
     <state x="367" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586505548537">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
@@ -206,46 +261,77 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="533" y="23" key="#com.intellij.ide.util.MemberChooser/0.0.1549.831@0.0.1549.831" timestamp="1586506903460" />
-    <state x="870" y="177" key="FileChooserDialogImpl" timestamp="1586576259760">
+    <state x="392" y="326" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586654633514">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="870" y="177" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1586576259760" />
-    <state width="1496" height="322" key="GridCell.Tab.0.bottom" timestamp="1586576867443">
+    <state x="392" y="326" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1549.831@0.0.1549.831" timestamp="1586654633514" />
+    <state x="870" y="177" key="FileChooserDialogImpl" timestamp="1586615043967">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1496" height="322" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1586576867443" />
-    <state width="1496" height="322" key="GridCell.Tab.0.center" timestamp="1586576867443">
+    <state x="870" y="177" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1586615043967" />
+    <state width="1496" height="191" key="GridCell.Tab.0.bottom" timestamp="1586586533514">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1496" height="322" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1586576867443" />
-    <state width="1496" height="322" key="GridCell.Tab.0.left" timestamp="1586576867442">
+    <state width="1496" height="191" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1586586533514" />
+    <state width="1496" height="191" key="GridCell.Tab.0.center" timestamp="1586586533514">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1496" height="322" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1586576867442" />
-    <state width="1496" height="322" key="GridCell.Tab.0.right" timestamp="1586576867443">
+    <state width="1496" height="191" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1586586533514" />
+    <state width="1496" height="191" key="GridCell.Tab.0.left" timestamp="1586586533514">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1496" height="322" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1586576867443" />
+    <state width="1496" height="191" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1586586533514" />
+    <state width="1496" height="191" key="GridCell.Tab.0.right" timestamp="1586586533514">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="191" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1586586533514" />
+    <state width="1496" height="215" key="GridCell.Tab.1.bottom" timestamp="1586582203807">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="215" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1586582203807" />
+    <state width="1496" height="215" key="GridCell.Tab.1.center" timestamp="1586582203807">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="215" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1586582203807" />
+    <state width="1496" height="215" key="GridCell.Tab.1.left" timestamp="1586582203807">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="215" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1586582203807" />
+    <state width="1496" height="215" key="GridCell.Tab.1.right" timestamp="1586582203807">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1496" height="215" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1586582203807" />
     <state x="179" y="0" key="SettingsEditor" timestamp="1586579831027">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="179" y="0" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1586579831027" />
-    <state width="642" height="498" key="SwitcherDM" timestamp="1586573385390">
+    <state width="642" height="515" key="SwitcherDM" timestamp="1586586122523">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="642" height="498" key="SwitcherDM/0.0.1549.831@0.0.1549.831" timestamp="1586573385390" />
+    <state width="642" height="515" key="SwitcherDM/0.0.1549.831@0.0.1549.831" timestamp="1586586122523" />
     <state x="644" y="260" key="cloudConfig.SelfSettingsDialog" timestamp="1586504274823">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="644" y="260" key="cloudConfig.SelfSettingsDialog/0.0.1549.831@0.0.1549.831" timestamp="1586504274823" />
-    <state x="0" y="0" key="new project wizard" timestamp="1586579867885">
+    <state x="0" y="0" key="new project wizard" timestamp="1586654222197">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="0" y="0" key="new project wizard/0.0.1549.831@0.0.1549.831" timestamp="1586579867885" />
-    <state x="353" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1586575581540">
+    <state x="0" y="0" key="new project wizard/0.0.1549.831@0.0.1549.831" timestamp="1586654222197" />
+    <state x="353" y="0" width="840" height="829" key="search.everywhere.popup" timestamp="1586585883495">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="353" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1549.831@0.0.1549.831" timestamp="1586575581540" />
+    <state x="353" y="0" width="840" height="829" key="search.everywhere.popup/0.0.1549.831@0.0.1549.831" timestamp="1586585883495" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/ui/TEst.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
