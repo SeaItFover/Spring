@@ -12,7 +12,6 @@ import java.util.Date;
  * 业务层操作持久层
  */
 
-@Component
 public class AccountServiceImpl implements AccountService{
 
     private String name;
@@ -24,7 +23,6 @@ public class AccountServiceImpl implements AccountService{
     //自定义的bean工厂
     //private AccountMapper accountMapper = (AccountMapper)BeanFactory.getBean("accountMapper");
 
-    @Autowired
     private AccountMapper accountMapper;
 
     @Override

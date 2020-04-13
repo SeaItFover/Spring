@@ -9,8 +9,12 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>customizeBeanFactory</module>
+        <module>XmlSpringIOC</module>
+        <module>AnnocationSpringIOC</module>
+        <module>XmlCase</module>
+        <module>AnnocationCase</module>
     </modules>
-    <packaging>pom</packaging>
+    <packaging>jar</packaging>
 
     <dependencies>
         <dependency>
@@ -43,6 +47,21 @@
             <groupId>c3p0</groupId>
             <artifactId>c3p0</artifactId>
             <version>0.9.1.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-api</artifactId>
+            <version>2.12.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>1.7.30</version>
+        </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>RELEASE</version>
         </dependency>
     </dependencies>
     <build>

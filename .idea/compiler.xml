@@ -7,6 +7,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="XmlSpringIOC" />
+        <module name="AnnocationCase" />
+        <module name="AnnocationSpringIOC" />
+        <module name="SpringSourceLearn" />
+        <module name="XmlCase" />
         <module name="customizeBeanFactory" />
       </profile>
     </annotationProcessing>

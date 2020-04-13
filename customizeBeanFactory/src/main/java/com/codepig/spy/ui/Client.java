@@ -9,12 +9,14 @@ import com.codepig.spy.service.AccountService;
 public class Client {
 
     public static void main(String[] args) {
-        //AccountService accountService = new AccountServiceImpl();
-        for (int i = 0; i < 5; i++){
 
+        // 1.0 AccountService accountService = new AccountServiceImpl();  //最早的new
+
+        for (int i = 0; i < 5; i++){
             AccountService accountService = (AccountService) BeanFactory.getBean("accountService");
             System.out.println(accountService);
         }
+
         //accountService.saveAccount();
     }
 }
