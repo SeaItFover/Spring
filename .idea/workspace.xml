@@ -20,54 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6043e097-e566-4464-9b4e-50a132799b45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AnnocationCase/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnnocationCase/src/main/java/com/codepig/spy/mapper/AccountMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnnocationCase/src/main/java/com/codepig/spy/mapper/AccountMapperImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnnocationCase/src/main/java/com/codepig/spy/model/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnnocationCase/src/main/java/com/codepig/spy/service/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnnocationCase/src/main/java/com/codepig/spy/service/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnnocationCase/src/main/java/config/JdbcConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnnocationCase/src/main/java/config/SpringConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnnocationCase/src/main/resources/annocationBean.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnnocationCase/src/test/java/com/codepig/spy/AccountServiceTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnnocationSpringIOC/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnnocationSpringIOC/src/main/resources/db/migration/V1__Create_account_table.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnnocationSpringIOC/src/main/resources/db/migration/V2__Insert_account_table.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XmlCase/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XmlCase/src/main/java/com/codepig/spy/mapper/AccountMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XmlCase/src/main/java/com/codepig/spy/mapper/AccountMapperImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XmlCase/src/main/java/com/codepig/spy/model/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XmlCase/src/main/java/com/codepig/spy/service/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XmlCase/src/main/java/com/codepig/spy/service/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XmlCase/src/main/resources/bean.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XmlCase/src/test/java/com/codepig/spy/AccountServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XmlSpringIOC/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XmlSpringIOC/src/main/java/com/codepig/spy/factory/BeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XmlSpringIOC/src/main/java/com/codepig/spy/factory/FactoryInstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XmlSpringIOC/src/main/java/com/codepig/spy/factory/StaticFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XmlSpringIOC/src/main/java/com/codepig/spy/jdbc/JdbcDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XmlSpringIOC/src/main/java/com/codepig/spy/jdbc/mybatis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XmlSpringIOC/src/main/java/com/codepig/spy/mapper/AccountMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XmlSpringIOC/src/main/java/com/codepig/spy/mapper/AccountMapperImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XmlSpringIOC/src/main/java/com/codepig/spy/mapper/settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XmlSpringIOC/src/main/java/com/codepig/spy/service/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XmlSpringIOC/src/main/java/com/codepig/spy/service/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XmlSpringIOC/src/main/java/com/codepig/spy/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XmlSpringIOC/src/main/resources/db/migration/V1__Create_account_table.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XmlSpringIOC/src/main/resources/db/migration/V2__Insert_account_table.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bc6e790b-d0ba-4255-9eb4-de3cc71cd972.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bc6e790b-d0ba-4255-9eb4-de3cc71cd972.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/service/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/service/AccountServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/ui/AnnocationClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/ui/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/ui/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/ui/SpringClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/XmlSpringIOC/src/main/java/com/codepig/spy/ui/SpringClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customizeBeanFactory/src/main/java/com/codepig/spy/ui/TEst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customizeBeanFactory/src/main/resources/annocationBean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AnnocationSpringIOC/src/main/resources/annocationBean.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customizeBeanFactory/src/main/resources/bean.properties" beforeDir="false" afterPath="$PROJECT_DIR$/customizeBeanFactory/src/main/resources/bean.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customizeBeanFactory/src/main/resources/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XmlSpringIOC/src/main/resources/bean.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,7 +180,7 @@
       <workItem from="1586580344193" duration="5192000" />
       <workItem from="1586607460007" duration="2424000" />
       <workItem from="1586651879598" duration="7232000" />
-      <workItem from="1586743620030" duration="14454000" />
+      <workItem from="1586743620030" duration="16341000" />
     </task>
     <servers />
   </component>
@@ -282,38 +235,38 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="870" y="177" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1586615043967" />
-    <state width="1481" height="316" key="GridCell.Tab.0.bottom" timestamp="1586762611176">
+    <state width="1481" height="212" key="GridCell.Tab.0.bottom" timestamp="1586786092896">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1481" height="316" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1586762611176" />
-    <state width="1481" height="316" key="GridCell.Tab.0.center" timestamp="1586762611176">
+    <state width="1481" height="212" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1586786092896" />
+    <state width="1481" height="212" key="GridCell.Tab.0.center" timestamp="1586786092895">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1481" height="316" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1586762611176" />
-    <state width="1481" height="316" key="GridCell.Tab.0.left" timestamp="1586762611176">
+    <state width="1481" height="212" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1586786092895" />
+    <state width="1481" height="212" key="GridCell.Tab.0.left" timestamp="1586786092895">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1481" height="316" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1586762611176" />
-    <state width="1481" height="316" key="GridCell.Tab.0.right" timestamp="1586762611176">
+    <state width="1481" height="212" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1586786092895" />
+    <state width="1481" height="212" key="GridCell.Tab.0.right" timestamp="1586786092895">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1481" height="316" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1586762611176" />
-    <state width="1481" height="212" key="GridCell.Tab.1.bottom" timestamp="1586762222148">
+    <state width="1481" height="212" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1586786092895" />
+    <state width="1481" height="212" key="GridCell.Tab.1.bottom" timestamp="1586786092896">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1481" height="212" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1586762222148" />
-    <state width="1481" height="212" key="GridCell.Tab.1.center" timestamp="1586762222147">
+    <state width="1481" height="212" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1586786092896" />
+    <state width="1481" height="212" key="GridCell.Tab.1.center" timestamp="1586786092896">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1481" height="212" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1586762222147" />
-    <state width="1481" height="212" key="GridCell.Tab.1.left" timestamp="1586762222147">
+    <state width="1481" height="212" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1586786092896" />
+    <state width="1481" height="212" key="GridCell.Tab.1.left" timestamp="1586786092896">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1481" height="212" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1586762222147" />
-    <state width="1481" height="212" key="GridCell.Tab.1.right" timestamp="1586762222147">
+    <state width="1481" height="212" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1586786092896" />
+    <state width="1481" height="212" key="GridCell.Tab.1.right" timestamp="1586786092896">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1481" height="212" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1586762222147" />
+    <state width="1481" height="212" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1586786092896" />
     <state x="190" y="0" key="Maven.ArtifactSearchDialog" timestamp="1586758841176">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
