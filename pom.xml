@@ -13,8 +13,12 @@
         <module>AnnocationSpringIOC</module>
         <module>XmlCase</module>
         <module>AnnocationCase</module>
+        <module>IntroduceAOP</module>
+        <module>SpringAOP_Mybatis</module>
+        <module>DynamicProxy</module>
+        <module>SpringAOP</module>
     </modules>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
 
     <dependencies>
         <dependency>

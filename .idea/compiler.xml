@@ -7,12 +7,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="customizeBeanFactory" />
-        <module name="AnnocationCase" />
-        <module name="AnnocationSpringIOC" />
-        <module name="SpringSourceLearn" />
-        <module name="XmlCase" />
+        <module name="IntroduceAOP" />
         <module name="XmlSpringIOC" />
+        <module name="AnnocationCase" />
+        <module name="SpringAOP_Mybatis" />
+        <module name="AnnocationSpringIOC" />
+        <module name="SpringAOP" />
+        <module name="XmlCase" />
+        <module name="customizeBeanFactory" />
+        <module name="DynamicProxy" />
       </profile>
     </annotationProcessing>
   </component>

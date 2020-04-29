@@ -48,7 +48,6 @@ public class AccountMapperImpl implements AccountMapper{
     @Override
     public void updateAccount(Account account) {
         try {
-
             queryRunner.update("update account set account = ?, money = ? where id = ?",account.getName(),account.getMoney(),account.getId());
         } catch (SQLException throwables) {
             throw new RuntimeException(throwables);
