@@ -20,40 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6043e097-e566-4464-9b4e-50a132799b45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/src/main/java/com/codepig/proxy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/src/main/java/com/codepig/proxy/IProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynamicProxy/src/main/java/com/codepig/proxy/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroduceAOP/IntroduceAOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroduceAOP/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroduceAOP/src/main/java/com/codepig/spy/config/JdbcConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroduceAOP/src/main/java/com/codepig/spy/config/SpringConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroduceAOP/src/main/java/com/codepig/spy/dao/Marry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroduceAOP/src/main/java/com/codepig/spy/mapper/IMarryMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroduceAOP/src/main/java/com/codepig/spy/mapper/MarryMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroduceAOP/src/main/java/com/codepig/spy/service/IMarryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroduceAOP/src/main/java/com/codepig/spy/service/MarryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroduceAOP/src/main/resources/bean.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroduceAOP/src/main/resources/bean2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroduceAOP/src/test/java/com/codepig/spy/MarryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAOP_Mybatis/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAOP_Mybatis/src/main/java/com/codepig/dao/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAOP_Mybatis/src/main/java/com/codepig/mapper/IUserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAOP_Mybatis/src/main/java/com/codepig/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAOP_Mybatis/src/main/java/com/codepig/mapper/impl/UserMapperImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAOP_Mybatis/src/main/java/com/codepig/service/IUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAOP_Mybatis/src/main/java/com/codepig/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAOP_Mybatis/src/main/java/com/codepig/ui/MockUi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAOP_Mybatis/src/main/java/com/codepig/utils/ConnectionUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAOP_Mybatis/src/main/java/com/codepig/utils/TransactionManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAOP_Mybatis/src/main/resources/SqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAOP_Mybatis/src/main/resources/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOP/src/main/java/com/codepig/service/IAccountSerivce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOP/src/main/java/com/codepig/service/impl/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOP/src/main/java/com/codepig/ui/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOP/src/main/java/com/codepig/utils/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOP/src/main/resources/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringTemplate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringTemplate/src/main/java/com/codepig/dao/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringTemplate/src/main/java/com/codepig/dao/impl/AccountMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringTemplate/src/main/java/com/codepig/jdbctemplate/JdbcTemplate01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringTemplate/src/main/java/com/codepig/jdbctemplate/JdbcTemplate02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringTemplate/src/main/java/com/codepig/mapper/IAccountMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringTemplate/src/main/resources/bean.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bc6e790b-d0ba-4255-9eb4-de3cc71cd972.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bc6e790b-d0ba-4255-9eb4-de3cc71cd972.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AnnocationCase/src/main/java/com/codepig/spy/mapper/AccountMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/AnnocationCase/src/main/java/com/codepig/spy/mapper/AccountMapperImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AnnocationCase/src/main/java/config/JdbcConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/AnnocationCase/src/main/java/config/JdbcConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +91,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.1532567" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -129,10 +110,31 @@
       <recent name="D:\JAVA\Idea\SpringSourceLearn\customizeBeanFactory\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.JdbcTemplate02">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codepig.ui.Client" />
+      <module name="SpringAOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codepig.proxy.Client" />
       <module name="DynamicProxy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTemplate01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codepig.jdbctemplate.JdbcTemplate01" />
+      <module name="SpringTemplate" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTemplate02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codepig.jdbctemplate.JdbcTemplate02" />
+      <module name="SpringTemplate" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -144,43 +146,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AccountServiceTest2.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AnnocationCase" />
-      <option name="PACKAGE_NAME" value="com.codepig.spy" />
-      <option name="MAIN_CLASS_NAME" value="com.codepig.spy.AccountServiceTest2" />
-      <option name="METHOD_NAME" value="testFindAll" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AccountServiceTest.testFindOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="XmlCase" />
-      <option name="PACKAGE_NAME" value="com.codepig.spy" />
-      <option name="MAIN_CLASS_NAME" value="com.codepig.spy.AccountServiceTest" />
-      <option name="METHOD_NAME" value="testFindOne" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AccountServiceTest.testSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="XmlCase" />
-      <option name="PACKAGE_NAME" value="com.codepig.spy" />
-      <option name="MAIN_CLASS_NAME" value="com.codepig.spy.AccountServiceTest" />
-      <option name="METHOD_NAME" value="testSave" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JdbcTemplate02" />
+        <item itemvalue="Application.JdbcTemplate01" />
+        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.MarryTest" />
-        <item itemvalue="JUnit.AccountServiceTest2.testFindAll" />
-        <item itemvalue="JUnit.AccountServiceTest.testSave" />
-        <item itemvalue="JUnit.AccountServiceTest.testFindOne" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +187,7 @@
       <workItem from="1587045775988" duration="3344000" />
       <workItem from="1587123053103" duration="135000" />
       <workItem from="1588053363076" duration="645000" />
-      <workItem from="1588142060121" duration="6677000" />
+      <workItem from="1588142060121" duration="13651000" />
     </task>
     <servers />
   </component>
@@ -254,10 +226,10 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="367" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1549.831@0.0.1549.831" timestamp="1586505548537" />
-    <state x="533" y="23" key="#com.intellij.ide.util.MemberChooser" timestamp="1588147737181">
+    <state x="533" y="23" key="#com.intellij.ide.util.MemberChooser" timestamp="1588240810886">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="533" y="23" key="#com.intellij.ide.util.MemberChooser/0.0.1549.831@0.0.1549.831" timestamp="1588147737181" />
+    <state x="533" y="23" key="#com.intellij.ide.util.MemberChooser/0.0.1549.831@0.0.1549.831" timestamp="1588240810886" />
     <state x="392" y="326" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586657577247">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
@@ -270,22 +242,22 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="870" y="177" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1586615043967" />
-    <state width="1496" height="233" key="GridCell.Tab.0.bottom" timestamp="1588152032648">
+    <state width="1496" height="314" key="GridCell.Tab.0.bottom" timestamp="1588240559806">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1496" height="233" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1588152032648" />
-    <state width="1496" height="233" key="GridCell.Tab.0.center" timestamp="1588152032648">
+    <state width="1496" height="314" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1588240559806" />
+    <state width="1496" height="314" key="GridCell.Tab.0.center" timestamp="1588240559806">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1496" height="233" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1588152032648" />
-    <state width="1496" height="233" key="GridCell.Tab.0.left" timestamp="1588152032648">
+    <state width="1496" height="314" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1588240559806" />
+    <state width="1496" height="314" key="GridCell.Tab.0.left" timestamp="1588240559806">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1496" height="233" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1588152032648" />
-    <state width="1496" height="233" key="GridCell.Tab.0.right" timestamp="1588152032648">
+    <state width="1496" height="314" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1588240559806" />
+    <state width="1496" height="314" key="GridCell.Tab.0.right" timestamp="1588240559806">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1496" height="233" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1588152032648" />
+    <state width="1496" height="314" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1588240559806" />
     <state width="1496" height="218" key="GridCell.Tab.1.bottom" timestamp="1588148477492">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
@@ -302,14 +274,14 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state width="1496" height="218" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1588148477492" />
-    <state x="190" y="0" key="Maven.ArtifactSearchDialog" timestamp="1586868727735">
+    <state x="308" y="0" key="Maven.ArtifactSearchDialog" timestamp="1588239320987">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="190" y="0" key="Maven.ArtifactSearchDialog/0.0.1549.831@0.0.1549.831" timestamp="1586868727735" />
-    <state x="179" y="0" key="SettingsEditor" timestamp="1586579831027">
+    <state x="308" y="0" key="Maven.ArtifactSearchDialog/0.0.1549.831@0.0.1549.831" timestamp="1588239320987" />
+    <state x="179" y="0" key="SettingsEditor" timestamp="1588238874857">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="179" y="0" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1586579831027" />
+    <state x="179" y="0" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1588238874857" />
     <state x="429" y="95" width="741" height="655" key="StructurePopup" timestamp="1588144750502">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
@@ -326,10 +298,10 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="944" y="113" width="535" height="643" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1549.831@0.0.1549.831" timestamp="1586866748460" />
-    <state x="0" y="0" key="new project wizard" timestamp="1588147614944">
+    <state x="0" y="0" key="new project wizard" timestamp="1588238330184">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="0" y="0" key="new project wizard/0.0.1549.831@0.0.1549.831" timestamp="1588147614944" />
+    <state x="0" y="0" key="new project wizard/0.0.1549.831@0.0.1549.831" timestamp="1588238330184" />
     <state x="353" y="0" width="840" height="829" key="search.everywhere.popup" timestamp="1588153117665">
       <screen x="0" y="0" width="1549" height="831" />
     </state>

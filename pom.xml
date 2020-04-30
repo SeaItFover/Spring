@@ -17,6 +17,7 @@
         <module>SpringAOP_Mybatis</module>
         <module>DynamicProxy</module>
         <module>SpringAOP</module>
+        <module>SpringTemplate</module>
     </modules>
     <packaging>pom</packaging>
 
