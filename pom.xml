@@ -18,6 +18,7 @@
         <module>DynamicProxy</module>
         <module>SpringAOP</module>
         <module>SpringTemplate</module>
+        <module>TestInjection</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -67,6 +68,11 @@
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.tomcat</groupId>
+            <artifactId>tomcat-catalina</artifactId>
+            <version>9.0.10</version>
         </dependency>
     </dependencies>
     <build>

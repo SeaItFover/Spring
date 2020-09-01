@@ -21,7 +21,7 @@ public class SpringClient {
         AccountService accountService = (AccountService) ac.getBean("accountService2");
         AccountMapper accountMapper =ac.getBean("accountMapper",AccountMapper.class);
 
-        accountService.saveAccount();
+        //accountService.saveAccount();
         System.out.println(accountService);
         System.out.println(accountMapper);
 

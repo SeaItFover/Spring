@@ -14,7 +14,7 @@
     <aop:config>
         <aop:aspect id="logAdvice" ref="logger">
             <aop:before method="printLog" pointcut="execution(
-            public void com.codepig.service.impl.AccountService.saveAccount())"></aop:before>
+            * * *..*.*(..))"></aop:before>
         </aop:aspect>
     </aop:config>
 </beans>

@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="SpringTemplate" />
+        <module name="TestInjection" />
         <module name="IntroduceAOP" />
         <module name="XmlSpringIOC" />
         <module name="AnnocationCase" />
